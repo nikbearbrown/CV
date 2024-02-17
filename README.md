@@ -2,8 +2,8 @@
 
 ## Contact Information
 - **Location:** Boston, MA 02115
-- **LinkedIn:** [nikbearbrown](https://www.linkedin.com/in/nikbearbrown)
-- **GitHub:** [nikbearbrown](https://github.com/nikbearbrown)
+- **LinkedIn:** [https://www.linkedin.com/in/nikbearbrown](https://www.linkedin.com/in/nikbearbrown)
+- **GitHub:** [https://github.com/nikbearbrown](https://github.com/nikbearbrown)
 
 ## Objective
 Eager to explore new opportunities and make a positive impact, I am passionate about leveraging artificial intelligence in education to enhance learning experiences.
