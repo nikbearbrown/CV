@@ -17,7 +17,7 @@ Eager to explore new opportunities and make a positive impact, I am passionate a
   - BA in Biochemistry and Molecular Biology, University of California Santa Cruz
 
 ## Professional Experience
-- **AI for Education Project, Northeastern University (2023-Present):** Project Lead. Spearheading efforts to integrate AI into educational practices.
+- **AI for Education Project, Northeastern University (2023-Present):** Project Lead. Spearheading efforts to integrate AI into educational practices. [https://github.com/nikbearbrown/AI4ED](https://github.com/nikbearbrown/AI4ED)  
 - **Institute for Experiential AI, Northeastern University (2022-Present):** Affiliated Faculty. Developing workshops and fostering AI collaborations.
 - **Northeastern University - College of Engineering:** Associate Teaching Professor (2022-Present), Assistant Teaching Professor (2017-2022).
 - **Northeastern University AI Skunkworks (2019-Present):** Founding Partner and Faculty Mentor.
