@@ -31,8 +31,10 @@ Extensive teaching experience across institutions, covering subjects including d
 - Fostering Engineering Innovation in Education Award, Northeastern University (2021-22)
 - Red Hat Academy Director's Award for 2020
 
-## Publications and Projects
+## Publications, Projects, and Student Mentorship
 Co-authored several papers on AI, computational biology, and educational technologies. Leading the AI for Education Project and founder of AI Skunkworks.
+More details on publications, projects, and student mentorship can be found here [https://github.com/nikbearbrown/CV/tree/main/Student_Mentorship_Publications](https://github.com/nikbearbrown/CV/tree/main/Student_Mentorship_Publications)  
+
 
 ## Professional Goals
 My primary aim is to bridge the gap between academic research and practical application in AI and education, making learning more accessible and tailored to individual needs.
