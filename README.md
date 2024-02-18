@@ -38,3 +38,22 @@ More details on publications, projects, and student mentorship can be found here
 
 ## Professional Goals
 My primary aim is to bridge the gap between academic research and practical application in AI and education, making learning more accessible and tailored to individual needs.
+
+### My Hi there 👋
+
+I'm an Associate Professor in Engineering at Northeastern University. I have taught computer science, statistics, applied mathematics, programming, 3D visual effects, web programming, server administration, networking, and game programming at Northeastern University, UCLA, Santa Monica College, ITT, and the Art Institutes - Hollywood. My Ph.D. was in computer science from UCLA. My major field was computational, and systems biology, and my minor fields were artificial intelligence and statistics. I did a part-time postdoc at Harvard Medical School while teaching at Northeastern University.
+
+I was an NSF IGERT Bioinformatics Fellow and have worked as a lab Molecular Biologist for DNAX Research Institute and the Cetus Corporation.
+
+I also have a Masters in Information Design and Data Visualization from Northeastern University and I'm currently enrolled in a Part-Time MS in Finance/MBA at Northeastern University.
+
+My research, consulting,  and teaching revolve around math, AI, ML, RL, DL, Visualization, Computational Biology, and Games.  
+
+My research, consulting, and teaching endeavors are deeply rooted in mathematics, AI, machine learning (ML), reinforcement learning (RL), deep learning (DL), visualization, computational biology, and game development. Beyond academia, I provide angel advising to early-stage startups, focusing on sectors crucial for technological innovation and success. This includes analytics, AI, ML, RL, DL, visualization, computational biology, and games, offering my time and expertise in exchange for equity. My advisory role is primarily aimed at guiding startups through the complexities of AI and ML technologies, emphasizing the creation of workable proof-of-concept prototypes to secure funding.
+
+In my capacity as **Project Lead for the AI for Education Project at Northeastern University**, I have been at the forefront of integrating AI into educational practices, as detailed on my [GitHub page](https://github.com/nikbearbrown/AI4ED). This initiative, part of the Provost's Office AI for Education (AI4ED), underscores my commitment to enhancing educational methodologies through adaptive, interactive, and personalized learning experiences.
+
+My collaborative engagements with esteemed institutions like the **Broad Institute of MIT and Harvard**, and **Harvard Medical School**, have enriched my perspective on the convergence of computational biology, deep learning, and education. This multidisciplinary approach has significantly contributed to my efforts in developing workshops and fostering collaborations that bridge academic research and practical AI applications.
+
+I am keenly interested in leveraging my expertise in generative AI to assist consulting companies focused on AI, furthering my commitment to driving innovation and excellence in both the academic and professional realms.
+
