@@ -1,41 +1,13 @@
-# AI Skunkworks - What We Have Done?
+# Nik Bear Brown - Publications, Projects, And Student Mentorship 
 
-AI Skunks is an experiential AI playground whose mission is to use technology and AI to teach research, creativity, and entrepreneurial thinking and skills.
+I believe one learns by doing.  My focus is an on creating experiential AI playground whose mission is to use technology and AI to teach research, creativity, and entrepreneurial thinking and skills.  This project of learning AI by doing AI is called "AI Skunkworks."  
 
 Experiential AI is learning AI by doing AI. Experiential learning is the process of learning by doing. By engaging in hands-on experiences and reflection, people learn how to apply knowledge to real-world situations.
 
 Mentorship is critical for experiential learning. The primary purpose of AI Skunkworks is to connect more experienced AI nerds with those less experienced and have them work on open-source code, tutorials, or writing articles. 
 
-Social Media:
 
-AI Skunks LinkedIn https://www.linkedin.com/company/aiskunkworks/   
-AI Skunks WWW https://alskunks.sites.northeastern.edu/    
-AI Skunks IG https://www.instagram.com/aiskunks/    
-AI Skunks Twitter https://twitter.com/aiskunks     
-
-## Sections      
-[Papers](#Papers)   
-[Awards](#Awards)   
-[Articles](#Articles)   
-[Projects](#Projects)  
-[Books](#Books)   
-[Data](#Data)    
-[Code](#Code)     
-[Games](#Games)  
-[Talks](#Talks)   
-[Research](#Research)  
-[Biology](#Biology)   
-[Finance](#Finance)   
-[Entrepreneurship](#Entrepreneurship)    
-[Art](#Art)   
-[Skool](#Skool)   
-[Art](#Art)   </br>
-[RegenerativeAI](#RegenerativeAI)  </br>
-[Ideas](#Ideas) </br>
-[Website](#Website)  
-[Testimonials](#testimonials)  
-
-## Papers  
+## Papers  (Both student papers and student co-authored papers)
 (Note that some papers are co-authored with collaborators outside AI Skunkworks. Only the Skunks are listed here, the full author list can be found through the link to the paper)
 
 DC-Art-GAN: Stable Procedural Content Generation using DC-GANs for Digital Art  
@@ -49,11 +21,6 @@ Nimish Magre, Nicholas Brown (2021) Typography-MNIST (TMNIST): an MNIST-Style Im
 Shesh Narayan Gupta, Nik Bear Brown (2022) Adjusting for Bias with Procedural Data
 53rd annual international conference of the International Simulation and Gaming Association (ISAGA).  
  
-Tanvi Valkunde Linear Algebra in the Browser powered by WebAssembly
-https://ieeexplore.ieee.org/document/9725939  
-
-Ram Gopal Varma Alluri Image Segmentation Process using Extended EM and K-Means Clustering Algorithms https://ijsrcsams.com/images/stories/Past_Issue_Docs/ijsrcsamsv7i4p77.pdf
-
  Pro-DDPM: Progressive Growing of Variable Denoising Diffusion Probabilistic Models for Faster Convergence  (Paper Accepted to The 33rd British Machine Vision Conference 21st - 24th November 2022, London, UK) https://bmvc2022.org/ 
 
 ## Awards   
@@ -69,18 +36,18 @@ Mentor:​ Nik Bear Brown
 Northeastern University Fostering Engineering Innovation in Education Award 2022    
 Awardee: Nik Bear Brown for AI Skunkworks     
 
-Nik Bear Brown for AI Skunkworks won the singular Northeastern University Fostering Engineering Innovation in Education Award for 2021-22. The Award recognizes outstanding College of Engineering educators for their extraordinary efforts during the past year to enhance our students’ knowledge, skills and ability to innovate as 21st century engineers. Specifically, nominees will have demonstrated fostering of technological innovation or innovative engineering design, with sustainable value for society, in undergraduate engineering courses that bridge between first year cornerstone and capstone experiences, or in graduate courses.   
+Nik Bear Brown for AI Skunkworks won the singular Northeastern University Fostering Engineering Innovation in Education Award for 2021-22. The Award recognizes outstanding College of Engineering educators for their extraordinary efforts during the past year to enhance our students’ knowledge, skills and ability to innovate as 21st-century engineers. Specifically, nominees will have demonstrated fostering of technological innovation or innovative engineering design, with sustainable value for society, in undergraduate engineering courses that bridge between first-year cornerstone and capstone experiences, or in graduate courses.   
 
 https://coe.northeastern.edu/awards/innovation/   
 
 Red Hat Academy Director's Award for 2020    
 Awardee: Nik Bear Brown for AI Skunkworks      
 
-Nik Bear Brown for AI Skunkworks won this singualr award was given for mentoring over 300 students through the Red Hat training materials for becoming Linux system administrators or DevOps programmers. Only one Red Hat Academy Director's Award is given each year out of the thousands of schools that take advantage of the Red Hat Academy material to train students to become Linux system administrators and DevOps programmers.   
+Nik Bear Brown for AI Skunkworks won this singular award for mentoring over 300 students through the Red Hat training materials for becoming Linux system administrators or DevOps programmers. Only one Red Hat Academy Director's Award is given each year out of the thousands of schools that take advantage of the Red Hat Academy material to train students to become Linux system administrators and DevOps programmers.   
 
 
   
- ## Articles     
+ ## Students Articles (Mentored by Nik Bear Brown)  
 
 Nancy Jemimah
 * Deep Q Learning — Explained https://medium.com/@nancyjemi/deep-q-learning-explained-65df980aac6f     
@@ -122,7 +89,6 @@ Abhishek Maheshwarappa
 * Installing CUDA for Nvidia GPU and cuDNN on windows 10  https://abhishek-maheshwarappa.medium.com/installing-cuda-for-nvidia-gpu-and-cudnn-on-windows-10-f03e6e82f265  
 * Integration between Python/FastAPI and Snowflake https://abhishek-maheshwarappa.medium.com/integration-between-python-fastapi-and-snowflake-954d90c83b7d  
 * A basic introduction into FastAPI https://abhishek-maheshwarappa.medium.com/a-basic-introduction-into-fastapi-3b97157cabfb  
-
 
 Saad Ghojaria
 * KNN and SVM what is it? https://medium.com/@ghojariasaad/knn-and-svm-what-is-it-154fa473a8bb   
@@ -170,7 +136,6 @@ Pratik P Sannakki
 
 * Unleashing Your Creativity: A Game Creator Workshop using ChatGPT- https://medium.com/@pratikpsannakki1/unleashing-your-creativity-a-game-creator-workshop-using-chatgpt-996cd8713d94
 
-
 Dushyant Mahajan
 * A Crash Course in DATA: Control your charts like an expert with Altair - https://medium.com/aiskunks/a-crash-course-in-data-control-your-charts-like-an-expert-with-altair-76de7837a87b
 
@@ -180,7 +145,7 @@ Dushyant Mahajan
  
  *Cognitive Type Project*  
  
- Mapping Typography to Cognition - The Cognitive Type Project is about creating computational tools which will allow the design of beautiful typefaces which have different cognitive properties. This will allow typographers to design type for such things as better click-through rates on Google ads, children's books that improve reading levels, or companies that better understand how their customers react to the text in their media. http://cognitivetype.org
+ Mapping Typography to Cognition - The Cognitive Type Project is about creating computational tools that will allow the design of beautiful typefaces that have different cognitive properties. This will allow typographers to design type for such things as better click-through rates on Google ads, children's books that improve reading levels, or companies that better understand how their customers react to the text in their media. http://cognitivetype.org
  
 Slide deck https://docs.google.com/presentation/d/1PQ4o6qKFJFAdw3Ibp9tZph5ryV9rMsAfbLvvMVt7Zt4/edit?usp=sharing
 
@@ -190,7 +155,7 @@ Visual scripting for machine learning and AI
 Slide deck https://docs.google.com/presentation/d/1Bo3F0-QWppR8dAE2d35qEDE8JkLQKDcsoQZRHq0MoZ4/edit?usp=sharing
 
 
-*Gogh - AI Assisted Data Visualization*  
+*Gogh - AI-Assisted Data Visualization*  
 
 Gogh is an open-source automated visualization pipeline. (Think AutoML for understanding data)
 
@@ -216,7 +181,6 @@ The PANOSE dataset annotates thousands of typefaces with 10 concatenated numeric
 
 https://github.com/aiskunks/CognitiveType/tree/main/Type_Segmentation/PANOSE
 
-
 *Typography-MNIST (TMNIST)*   
 
 Typography-MNIST (TMNIST) https://www.kaggle.com/datasets/7a2a5621ee8c66c1aba046f9810a79aa27aafdbbe5d6a475b861d2ba8552d1fc
@@ -233,11 +197,11 @@ https://github.com/matinraayai/raman-siamese
 
 *Klee - An open-source procedural AI engine*
 
-Visual procedural programming allows for very rapid, highly performant and iterative programming making it a great acrhitecture for machine learning and MLOPs. Node-based programming can be mixed with scripting.
+Visual procedural programming allows for very rapid, highly performant, and iterative programming making it a great architecture for machine learning and MLOPs. Node-based programming can be mixed with scripting.
 
 This style of programming has been proven in VFX and game engines like SideFX Houdini, Unity 3D, and Unreal Engine. Games like Fortnite are almost entirely built using visual programming.
 
-This software architecture allows data scientists, biologists, reseachers, Kagglers and anyone interested in developing custom AI applications to be far more effective than they would be writing lots of scripts and notebooks.
+This software architecture allows data scientists, biologists, researchers, Kagglers, and anyone interested in developing custom AI applications to be far more effective than they would be writing lots of scripts and notebooks.
 
 https://github.com/aiskunks/Klee
 
@@ -334,24 +298,8 @@ https://github.com/aiskunks/The_Economics_of_Happiness
 
 ## Entrepreneurship    
 
-AI Skunkworls collaborates with the IDEA lab at Northeastern to support ventures and the entrepreneurs related to AI. https://www.northeastern.edu/idea/get-started/management/  
+AI Skunkworls collaborates with the IDEA lab at Northeastern to support ventures and entrepreneurs related to AI. https://www.northeastern.edu/idea/get-started/management/  
 
-## Art      
-
-The Warhol project works of various computaional art and AI assisted design projects.  See https://docs.google.com/presentation/d/1D3Zy2I1d_XcvidCa-Wap1GAPJo3tmm9ZB10_Nx5gEz0/edit?usp=sharing
-
-## Skool
-
-Skunks Skool is an open source Data Science repository with links and tutorials for data science created by AI Skunks.  https://github.com/aiskunks/Skunks_Skool  
-
-## ExperientialAI
-
-Ai Skunkworks collaborates with the Institute for Experiential AI. https://ai.northeastern.edu/ 
-
-## RegenerativeAI
-Regenerative Ai is AI that helps people grow and make life changes. We started an open-source project for students to build tools and make people make positive life changes which we call **Regenerative AI**.
-
-The initial focus of **Regenerative AI** is focused on making career changes. We are looking for people to write papers, and build open-source tools focused on careers. These might be tools that help students from preparing their CV or to getting matched with the perfect job.
 
 ## Ideas
 
@@ -435,13 +383,7 @@ Whether you are a co-author will follow standard guidelines on authorship in sch
 https://provost.yale.edu/policies/academic-integrity/guidance-authorship-scholarly-or-scientific-publications
 
 
-
-## Website       
-
-The official website (still under construction) is at https://alskunks.sites.northeastern.edu/
-
 ## Testimonials
-
 
 
 Professor Brown and AI Skunkworks has been an immense backing for the students in the Data track, this support has made me a data scientist. and was a game-changer.
@@ -454,7 +396,7 @@ AI skunkworks instills and develops AI thinking among the students. This also ga
 
 AI Skunkworks has helped me bridge the gap between starting off as a Novice in the field of AI to implementing real challenges in AI in industry. Prof. Nik's mentoring, constant encouragement and AI skunkworks involvement in networking helped me in working with Squark AI on productionizing best data scrubbing techniques. The efforts of Prof. Nik's mentoring and collaboration with fellow students in the research group has helped my Article titled 'Comparison of Performance of Data Imputation Techniques' get selected for presentation at RISE 2022, Northeastern University.  I say it's time that AI Skunkworks be called an Impact engine because it definitely lives up to that title.
 
-*- Kshitij Zutshi*
+
 
 
 
