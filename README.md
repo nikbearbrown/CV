@@ -121,8 +121,9 @@ Drafts of papers in progress can be found at [https://github.com/nikbearbrown/AI
   Megha Patel, Himanshi Motwani, Nik Bear Brown  
   Draft (2024)
   
-**AI for Education Project (AI4ED) Research**  
-Involved in drafting papers focusing on enhancing trust in LLMs and evaluating tools for AI in education.
+**AI FOR EDUCATION PROJECT (AI4ED)**  
+In my capacity as Project Lead for the AI for Education Project at Northeastern University, I have been at the forefront of integrating AI into educational practices, as detailed in the [AI for Education project (AI4ED) GitHub](https://github.com/nikbearbrown/AI4ED/tree/main/Papers). This initiative, part of the Provost's Office AI for Education (AI4ED), underscores my commitment to enhancing educational methodologies through adaptive, interactive, and personalized learning experiences.
+
 
 **PROFESSIONAL GOALS**  
 My goals center on advancing AI in education through developing open-source tools, pioneering innovative educational methods, and promoting ethical AI development and use, aiming to transform education and make learning more personalized and accessible.
