@@ -70,7 +70,22 @@ Developed and revamped several courses at Northeastern University, including:
   Paper Accepted to The 33rd British Machine Vision Conference, 21st - 24th November 2022, London, UK  
   [https://bmvc2022.org/](https://bmvc2022.org/)
 
+**AI for Education Project (AI4ED) Research**
 
+Drafts of papers in progress can be found at [https://github.com/nikbearbrown/AI4ED/tree/main/Papers](https://github.com/nikbearbrown/AI4ED/tree/main/Papers).
+
+- **Enhancing Trust in LLMs: Algorithms for Comparing and Interpreting LLMs**  
+  Megha Patel, Himanshi Motwani, Nik Bear Brown  
+  Draft (2024)
+
+- **Evaluating Tools for AI in Education: A Structured Framework**  
+  Dev Shah, Yash Pankhania, Himanshi Motwani, Megha Patel, Nik Bear Brown  
+  Draft (2024)
+
+- **The AI4ED Framework for Building Educational AI Tools**  
+  Megha Patel, Himanshi Motwani, Nik Bear Brown  
+  Draft (2024)
+  
 **AI for Education Project (AI4ED) Research**  
 Involved in drafting papers focusing on enhancing trust in LLMs and evaluating tools for AI in education.
 
