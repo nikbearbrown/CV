@@ -43,8 +43,33 @@ Developed and revamped several courses at Northeastern University, including:
 - Fostering Engineering Innovation in Education Award, Northeastern University (2021-22)
 - Red Hat Academy Director's Award for 2020
 
-**PUBLICATIONS**  
-Listed significant contributions to the field, including works on AI applications in education and computational biology.
+**PUBLICATIONS**
+
+- **Mapping the Typographic Latent Space of Digits**  
+  A. A. Issak, S. Kakkar, S. Goetz, N. B. Brown, C. Harteveld  
+  The Eleventh International Conference on Learning Representations (ICLR), Kigali, Rwanda, May 2023
+
+- **DC-Art-GAN: Stable Procedural Content Generation using DC-GANs for Digital Art**  
+  Rohit Gandikota, Nik Bear Brown (2022)  
+  [arXiv:2209.02847](https://arxiv.org/abs/2209.02847)
+
+- **Deep learning and alignment of spatially resolved single-cell transcriptomes with Tangram**  
+  Raghav Avasthi, Ziqing Lu, Nik Bear Brown  
+  Nature Methods 18, 1352–1362 (2021)  
+  [https://doi.org/10.1038/s41592-021-01264-7](https://doi.org/10.1038/s41592-021-01264-7)
+
+- **Typography-MNIST (TMNIST): an MNIST-Style Image Dataset to Categorize Glyphs and Font-Styles**  
+  Nimish Magre, Nicholas Brown (2021)  
+  [arXiv:2202.08112](https://doi.org/10.48550/arXiv.2202.08112)
+
+- **Adjusting for Bias with Procedural Data**  
+  Shesh Narayan Gupta, Nik Bear Brown (2022)  
+  53rd annual international conference of the International Simulation and Gaming Association (ISAGA)
+
+- **Pro-DDPM: Progressive Growing of Variable Denoising Diffusion Probabilistic Models for Faster Convergence**  
+  Paper Accepted to The 33rd British Machine Vision Conference, 21st - 24th November 2022, London, UK  
+  [https://bmvc2022.org/](https://bmvc2022.org/)
+
 
 **AI for Education Project (AI4ED) Research**  
 Involved in drafting papers focusing on enhancing trust in LLMs and evaluating tools for AI in education.
