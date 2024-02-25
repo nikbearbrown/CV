@@ -41,15 +41,15 @@ Developed and revamped several courses at Northeastern University, including:
 **Northeastern Courses**  
 (* indicates a new course I created or completely updated and revamped)
 
-- *Coursera INFO 6205: Program Structure Algorithms*
-- *CSYE 7270: Building Virtual Environments*
+- *_Coursera INFO 6205: Program Structure Algorithms_*
+- *_CSYE 7270: Building Virtual Environments_*
 - INFO 6105: Data Sci Eng Methods
 - INFO 6205: Program Structure Algorithms
 - INFO 7390: Advances Data Sci/Architecture
-- *CSYE 7370: Deep Reinforcement Learning Game Eng*
+- *_CSYE 7370: Deep Reinforcement Learning Game Eng_*
 - DAMG 6210: Data Mgt and Database Design
-- *INFO 7375: ST: AI Engineering Apps*
-- *CSYE 7374: Special Topics: Computational Skepticism*
+- *_INFO 7375: ST: AI Engineering Apps_*
+- *_CSYE 7374: Special Topics: Computational Skepticism_*
 - INFO 6210: Data Mgt and Database Design
 - CSYE 7245: Big Data Sys Int Analytics
 - DA 5030: Intro Data Mining/Machine Lrn
