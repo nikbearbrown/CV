@@ -38,6 +38,42 @@ Developed and revamped several courses at Northeastern University, including:
 - INFO 7375: ST: AI Engineering Apps
 - CSYE 7374: Special Topics: Computational Skepticism
 
+**Northeastern Courses**  
+(* indicates a new course I created or completely updated and revamped)
+
+- *Coursera INFO 6205: Program Structure Algorithms*
+- *CSYE 7270: Building Virtual Environments*
+- INFO 6105: Data Sci Eng Methods
+- INFO 6205: Program Structure Algorithms
+- INFO 7390: Advances Data Sci/Architecture
+- *CSYE 7370: Deep Reinforcement Learning Game Eng*
+- DAMG 6210: Data Mgt and Database Design
+- *INFO 7375: ST: AI Engineering Apps*
+- *CSYE 7374: Special Topics: Computational Skepticism*
+- INFO 6210: Data Mgt and Database Design
+- CSYE 7245: Big Data Sys Int Analytics
+- DA 5030: Intro Data Mining/Machine Lrn
+- CS 3540: Game Programming
+- CS 4300: Computer Graphics
+- CS 4850: Building Game Engines
+- CS 5850: Advanced Building Game Engines
+- DS 6020: Collect/Store/Retrieve Data
+- DS 6030: Intro Data Mining/Machine Lrn
+- CS 4800: Algorithms Data
+
+**UCLA Courses**
+- CS 31 Programming in C++
+
+**Santa Monica College Courses**
+- CS 52 Programming in C++
+
+**Arts Institutes Courses**
+- Programming in C++
+- Game Programming
+
+**LA Film School Courses**
+- Game Programming 
+
 **AWARDS AND RECOGNITIONS**  
 - RISE Award 2022, COMPUTER AND INFORMATION SCIENCES
 - Fostering Engineering Innovation in Education Award, Northeastern University (2021-22)
