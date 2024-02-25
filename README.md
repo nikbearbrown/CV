@@ -39,7 +39,6 @@ Developed and revamped several courses at Northeastern University, including:
 - CSYE 7374: Special Topics: Computational Skepticism
 
 **Northeastern Courses**  
-(* indicates a new course I created or completely updated and revamped)
 
 - *_Coursera INFO 6205: Program Structure Algorithms_*
 - *_CSYE 7270: Building Virtual Environments_*
