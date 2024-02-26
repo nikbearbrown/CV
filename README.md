@@ -39,11 +39,12 @@ Developed and revamped several courses at Northeastern University, including:
 - CSYE 7374: Special Topics: Computational Skepticism
 
 **Northeastern Coursera Courses**  
- -**INFO 6205**: Coursera INFO 6205: Program Structure Algorithm
+
+ -**INFO 6205**: Coursera INFO 6205: Program Structure Algorithms
  
 **Northeastern Courses**  
 
- -**CS 3540**: Game Programming
+-**CS 3540**: Game Programming
 - **CS 4300**: Computer Graphics
 - **CS 4800**: Algorithms and Data
 - **CS 4850/5850**: Building Game Engines
