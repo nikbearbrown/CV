@@ -2,13 +2,13 @@
 
 Word and PDF versions of the syllabi are in the Syllabi subfolder.
 
-Combining and sorting the lists while removing duplicates, we get the following alphabetically ordered list without numbering and including all unique course titles mentioned:
+**Northeastern Coursera Courses**  
 
-- **CS 31 (UCLA)**: Programming in C++
-- **CS 52 (Santa Monica College)**: Programming in C++
+ -**INFO 6205**: Coursera INFO 6205: Program Structure Algorithms
+ 
+**Northeastern Courses**  
 
-  ## Northeastern Courses
-- **CS 3540**: Game Programming
+-**CS 3540**: Game Programming
 - **CS 4300**: Computer Graphics
 - **CS 4800**: Algorithms and Data
 - **CS 4850/5850**: Building Game Engines
@@ -29,7 +29,16 @@ Combining and sorting the lists while removing duplicates, we get the following 
 - **INFO 7375**: Special Topics in Artificial Intelligence Engineering - Computational Skepticism
 - **INFO 7375**: Special Topics in Artificial Intelligence Engineering - Prompt Engineering for Generative AI
 - **INFO 7390**: Advances in Data Science/Architecture
+- 
+**UCLA Courses**
+- CS 31 Programming in C++
 
-This list includes a diverse range of courses across computer science, data science, artificial intelligence, and more, reflecting the wide array of subjects available in this academic context.
+**Santa Monica College Courses**
+- CS 52 Programming in C++
 
-This list encompasses a wide range of topics, from data science and machine learning to game programming and big data systems, reflecting the diversity and depth of courses offered across the terms mentioned.
+**Arts Institutes Courses**
+- Programming in C++
+- Game Programming
+
+**LA Film School Courses**
+- Game Programming 
