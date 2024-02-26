@@ -32,19 +32,21 @@
 With a rich background in computational biology, AI, visualization, and game development, I aim to bridge academic research with practical applications in AI and education. My work at Northeastern and collaborations with prestigious institutions highlight my commitment to transforming educational methodologies through AI.
 
 **TEACHING EXPERIENCE**  
+'
 Developed and revamped several courses at Northeastern University, including:
 - CSYE 7270: Building Virtual Environments
 - CSYE 7370: Deep Reinforcement Learning Game Engineering
 - INFO 7375: ST: AI Engineering Apps
 - CSYE 7374: Special Topics: Computational Skepticism
+- INFO 6205: Coursera INFO 6205: Program Structure Algorithms  
 
 **Northeastern Coursera Courses**  
 
- -**INFO 6205**: Coursera INFO 6205: Program Structure Algorithms
+ - **INFO 6205**: Coursera INFO 6205: Program Structure Algorithms
  
 **Northeastern Courses**  
 
--**CS 3540**: Game Programming
+- **CS 3540**: Game Programming
 - **CS 4300**: Computer Graphics
 - **CS 4800**: Algorithms and Data
 - **CS 4850/5850**: Building Game Engines
@@ -65,7 +67,7 @@ Developed and revamped several courses at Northeastern University, including:
 - **INFO 7375**: Special Topics in Artificial Intelligence Engineering - Computational Skepticism
 - **INFO 7375**: Special Topics in Artificial Intelligence Engineering - Prompt Engineering for Generative AI
 - **INFO 7390**: Advances in Data Science/Architecture
-- 
+  
 **UCLA Courses**
 - CS 31 Programming in C++
 
