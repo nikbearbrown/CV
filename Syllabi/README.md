@@ -51,4 +51,4 @@ I developed and revamped several courses at Northeastern University, including:
 - INFO 7375: ST: AI Engineering Apps
 - CSYE 7374: Special Topics: Computational Skepticism
 - INFO 6205: Coursera INFO 6205: Program Structure Algorithms
-- 
+  
