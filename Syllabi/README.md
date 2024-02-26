@@ -4,11 +4,11 @@ Word and PDF versions of the syllabi are in the Syllabi subfolder.
 
 **Northeastern Coursera Courses**  
 
- -**INFO 6205**: Coursera INFO 6205: Program Structure Algorithms
+ - **INFO 6205**: Coursera INFO 6205: Program Structure Algorithms
  
 **Northeastern Courses**  
 
--**CS 3540**: Game Programming
+- **CS 3540**: Game Programming
 - **CS 4300**: Computer Graphics
 - **CS 4800**: Algorithms and Data
 - **CS 4850/5850**: Building Game Engines
@@ -29,7 +29,7 @@ Word and PDF versions of the syllabi are in the Syllabi subfolder.
 - **INFO 7375**: Special Topics in Artificial Intelligence Engineering - Computational Skepticism
 - **INFO 7375**: Special Topics in Artificial Intelligence Engineering - Prompt Engineering for Generative AI
 - **INFO 7390**: Advances in Data Science/Architecture
-- 
+  
 **UCLA Courses**
 - CS 31 Programming in C++
 
