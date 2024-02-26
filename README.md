@@ -32,8 +32,8 @@
 With a rich background in computational biology, AI, visualization, and game development, I aim to bridge academic research with practical applications in AI and education. My work at Northeastern and collaborations with prestigious institutions highlight my commitment to transforming educational methodologies through AI.
 
 **TEACHING EXPERIENCE**  
-'
-Developed and revamped several courses at Northeastern University, including:
+
+I developed and revamped several courses at Northeastern University, including:
 - CSYE 7270: Building Virtual Environments
 - CSYE 7370: Deep Reinforcement Learning Game Engineering
 - INFO 7375: ST: AI Engineering Apps
